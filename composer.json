@@ -1,0 +1,9 @@
+{
+    "name": "admin/base-php2",
+    "autoload": {
+        "psr-4": {
+            "Admin\\BasePhp2\\": "src/"
+        }
+    },
+    "require": {}
+}
